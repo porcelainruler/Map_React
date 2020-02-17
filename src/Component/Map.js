@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import '../../public/css/main.css';
+import '../Resources/css/map.css';
+// import MapContainer from './MapContainer'
+
 
 class Map extends Component {
     constructor(props) {
@@ -9,7 +11,7 @@ class Map extends Component {
     render() {
         return(
             <div className= "Container"> 
-                Here's Gonna be Map
+                Here's Gonna be a Map
             </div>
 
         )
