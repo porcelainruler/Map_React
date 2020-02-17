@@ -57,7 +57,7 @@ class Header extends Component {
                                         alt="Space-React" />
                                 </NavbarBrand>
                                 <div className="org_name ml-1">
-                                    <span className="org_text">Space-React</span>
+                                    <span className="org_text">Varuna</span>
                                 </div>
                             </div>
                             <Nav className="ml-auto mr-10" navbar>
@@ -116,8 +116,8 @@ class Header extends Component {
                         <div className="container">
                             <div className="row row-header">
                                 <div className="col-12 col-sm-6">
-                                    <h1>Space-React</h1>
-                                    <p>We provide information History, Present and Future of Space and it's related Technalogical Developement</p>
+                                    <h1>Varuna</h1>
+                                    <p>We provide information about History, Location and Condition of Damaged River Banks.</p>
                                 </div>
                             </div>
                         </div>
