@@ -1,0 +1,85 @@
+.upper_nav {
+    height: 10vh;
+    min-height: 12px;
+    width: 100%;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    background-color: white;
+    min-width: 420px;
+    position: sticky;
+    top: 0px;
+}
+
+
+.lower_nav {
+    height: 10vh;
+    min-height: 12px;
+    width: 100%;
+    min-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 100% solid black;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    background-color: black;
+}
+
+.lower_nav_sub {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-between;
+}
+
+.lower_nav_but {
+    margin-left: auto;
+}
+
+.upper_nav_sub {
+    position: absolute;
+    width: 100%;
+}
+
+.unavsym {
+    margin-left: 0px;
+}
+
+.org_name {
+    display: inline-block;
+}
+
+.org_text {
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+    overflow: auto;
+}
+
+.unavbut {
+    padding-right: 10px;
+}
+
+.jumbo {
+    opacity: 0.6;
+    overflow: auto;
+    width: 100%;
+    min-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.jumbo h1 {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+
+div.jumbo p {
+    margin: 5%;
+    font-weight: inherit;
+    color: #000000;
+    overflow: auto;
+}

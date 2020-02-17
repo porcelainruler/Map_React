@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../Resources/css/main.css';
+import '../assets/css/main.css';
 import Map from './Map';
 
 class Main extends Component {

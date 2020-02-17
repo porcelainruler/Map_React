@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../Resources/css/map.css';
-// import MapContainer from './MapContainer'
+import MapContainer from './MapContainer'
 
 
 class Map extends Component {
@@ -11,7 +11,7 @@ class Map extends Component {
     render() {
         return(
             <div className= "Container"> 
-                Here's Gonna be a Map
+                <MapContainer />
             </div>
 
         )
